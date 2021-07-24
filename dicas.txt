@@ -1,0 +1,4 @@
+"../" =>me leva para uma pasta fora da pasta atual que eu estou, caso eu queira
+
+
+"rfc" => abre as config de um componente automaticamente
